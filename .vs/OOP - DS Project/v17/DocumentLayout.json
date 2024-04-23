@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Bank Queue Management System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank Queue Management System\\Bank Queue Management System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank Queue Management System\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank Queue Management System\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank Queue Management System\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\DequeueResult.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank Queue Management System\\DequeueResult.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Teller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank Queue Management System\\Teller.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank Queue Management System\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Bank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bank Queue Management System\\Bank.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.h",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Node.h",
+              "RelativeDocumentMoniker": "Bank Queue Management System\\Node.h",
+              "ToolTip": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Node.h",
+              "RelativeToolTip": "Bank Queue Management System\\Node.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-29T15:15:24.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.h",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\List.h",
+              "RelativeDocumentMoniker": "Bank Queue Management System\\List.h",
+              "ToolTip": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\List.h",
+              "RelativeToolTip": "Bank Queue Management System\\List.h",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAIwFcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-29T15:15:24.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Queue.h",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Queue.h",
+              "RelativeDocumentMoniker": "Bank Queue Management System\\Queue.h",
+              "ToolTip": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Queue.h",
+              "RelativeToolTip": "Bank Queue Management System\\Queue.h",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-29T15:15:24.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DequeueResult.h",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\DequeueResult.h",
+              "RelativeDocumentMoniker": "Bank Queue Management System\\DequeueResult.h",
+              "ToolTip": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\DequeueResult.h",
+              "RelativeToolTip": "Bank Queue Management System\\DequeueResult.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-29T15:15:24.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teller.h",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Teller.h",
+              "RelativeDocumentMoniker": "Bank Queue Management System\\Teller.h",
+              "ToolTip": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Teller.h",
+              "RelativeToolTip": "Bank Queue Management System\\Teller.h",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAEcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-29T15:15:24.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.h",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Customer.h",
+              "RelativeDocumentMoniker": "Bank Queue Management System\\Customer.h",
+              "ToolTip": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Customer.h",
+              "RelativeToolTip": "Bank Queue Management System\\Customer.h",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-29T15:15:24.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bank.h",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Bank.h",
+              "RelativeDocumentMoniker": "Bank Queue Management System\\Bank.h",
+              "ToolTip": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Bank.h",
+              "RelativeToolTip": "Bank Queue Management System\\Bank.h",
+              "ViewState": "AQIAAPMBAAAAAAAAAAAAALEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-29T15:15:24.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bank Queue Management System.cpp",
+              "DocumentMoniker": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Bank Queue Management System.cpp",
+              "RelativeDocumentMoniker": "Bank Queue Management System\\Bank Queue Management System.cpp",
+              "ToolTip": "D:\\Software_Courses\\My_ITI_44\\00-Projects\\Bank-Queue-Management-system\\OOP - DS Project\\Bank Queue Management System\\Bank Queue Management System.cpp",
+              "RelativeToolTip": "Bank Queue Management System\\Bank Queue Management System.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-29T15:15:24.141Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1304,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
